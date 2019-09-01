@@ -1,2 +1,2 @@
 # ds
-Class for data structure in Gyeonsang Univ. 
+A course of data structure in Gyeonsang Univ. 
